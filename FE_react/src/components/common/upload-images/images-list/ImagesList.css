@@ -1,0 +1,12 @@
+.images-list-container {
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  /* border: darkblue; */
+  /* border-style: dashed; */
+  width: 1000px;
+  /* height: 500px; */
+  /* position: relative; */
+}
+
